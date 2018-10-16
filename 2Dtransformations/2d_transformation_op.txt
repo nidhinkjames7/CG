@@ -1,0 +1,32 @@
+[Nidhin@DBCPC12 2Dtransformations]$ g++ 2d_transformations.cpp -lglut
+[Nidhin@DBCPC12 2Dtransformations]$ ./a.out
+2D TRANSFORMATION OPERATIONS ARE
+1:TRANSLATION
+2:ROTATION
+3:SCALING
+ENTER UR CHOICE
+1
+enter value for tx and ty
+-0.5
+-0.3
+[Nidhin@DBCPC12 2Dtransformations]$ ./a.out
+2D TRANSFORMATION OPERATIONS ARE
+1:TRANSLATION
+2:ROTATION
+3:SCALING
+ENTER UR CHOICE
+2
+enter an angle
+30
+[Nidhin@DBCPC12 2Dtransformations]$ ./a.out
+2D TRANSFORMATION OPERATIONS ARE
+1:TRANSLATION
+2:ROTATION
+3:SCALING
+ENTER UR CHOICE
+3
+enter values for sx and sy
+0.5
+0.3
+[Nidhin@DBCPC12 2Dtransformations]$ 
+

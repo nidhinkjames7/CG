@@ -1,0 +1,12 @@
+[Nidhin@DBCPC12 bresenham]$ g++ bresenham_line.cpp -lglut
+[Nidhin@DBCPC12 bresenham]$ ./a.out
+enter the coordinate of x1 and y1
+30
+60
+enter the coordinates of x2 and y2
+50
+100
+[Nidhin@DBCPC12 bresenham]$ 
+
+
+

@@ -1,0 +1,34 @@
+[Nidhin@DBCPC12 3Dtransformations]$ g++ 3d_transformations.cpp -lglut
+[Nidhin@DBCPC12 3Dtransformations]$ ./a.out
+3D TRANSFORMATION OPERATIONS
+1:TRANSLATION
+2:ROTATION
+3:SCALING
+ENTER UR CHOICE
+1
+Enter values for tx,ty and tz
+-0.3
+-0.5
+-0.7
+[Nidhin@DBCPC12 3Dtransformations]$ ./a.out
+3D TRANSFORMATION OPERATIONS
+1:TRANSLATION
+2:ROTATION
+3:SCALING
+ENTER UR CHOICE
+2
+Enter an angle
+30
+[Nidhin@DBCPC12 3Dtransformations]$ ./a.out
+3D TRANSFORMATION OPERATIONS
+1:TRANSLATION
+2:ROTATION
+3:SCALING
+ENTER UR CHOICE
+3
+Enter values for sx,sy and sz
+0.3
+0.5
+0.7
+[Nidhin@DBCPC12 3Dtransformations]$ 
+

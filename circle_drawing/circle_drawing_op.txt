@@ -1,0 +1,8 @@
+[Nidhin@DBCPC12 circle_drawing]$ ./a.out
+enter the values for xc and yc
+10
+20
+enter the value for radius r
+20
+[Nidhin@DBCPC12 circle_drawing]$ 
+

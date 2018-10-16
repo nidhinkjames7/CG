@@ -1,0 +1,12 @@
+[Nidhin@DBCPC12 dda_line]$ g++ dda_line.cpp -lglut
+[Nidhin@DBCPC12 dda_line]$ ./a.out
+
+enter the coordinate of x1 and y1
+30
+60
+
+enter the coordinates of x2 and y2
+60
+90
+[Nidhin@DBCPC12 dda_line]$ 
+
